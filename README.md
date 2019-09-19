@@ -1,4 +1,4 @@
-Go module that serves SSH sessions with an interactive shell
+Go module that serves SSH sessions with an interactive shell. The interactive shell includes support for command history, which can be recalled using the up/down arrow keys.
 
 ## Adding module
 
